@@ -222,6 +222,7 @@ Content, SEO and ads with agents that report back.
 - **[content-vault](https://github.com/timscheuerai/content-vault)** `★ 44` · 14 Claude Code skills and a Notion template that run a content engine for LinkedIn, X and YouTube.
 - **[10x-Content-Expert](https://github.com/OpenAnalystInc/10x-Content-Expert)** `★ 21` · Claude Code plugin with skills for emails, social posts, presentations and blogs.
 - **[x-algorithm-skill](https://github.com/ceoguy/x-algorithm-skill)** `★ 1` · Claude skill for writing X posts engineered against the open-source For-You ranker.
+- **[juzpost-agent](https://github.com/juzpost/juzpost-agent)** · ChatGPT plugin, Claude plugin and MCP server that draft and schedule social posts across networks through JuzPost.
 
 ### Marketing packs, ads and sales
 
